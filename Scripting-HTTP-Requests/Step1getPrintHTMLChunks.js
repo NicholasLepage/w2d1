@@ -19,4 +19,4 @@ function getAndPrintHTMLChunks () {
   });
 }
 
-console.log(getAndPrintHTMLChunks());
+getAndPrintHTMLChunks();
